@@ -1,3 +1,7 @@
 what is ttx
 원격 저장소 이름 add remote: origin
+<<<<<<< HEAD
 l1
+=======
+df
+>>>>>>> d9f83e36ea162c751f9579d1520ffbe53f3c6453
