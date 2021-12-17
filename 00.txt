@@ -1,2 +1,3 @@
 what is ttx
 원격 저장소 이름 add remote: origin
+l1
